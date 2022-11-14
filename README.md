@@ -11,4 +11,4 @@ Growth mindset means to me...
 2. Reminder 2
 3. Reminder 3
 
-Here's a link to my github portfolio: [GitHub Portfolio] (https://marcusbynoe.github.io/reading-notes/)
+Here's a link to my github portfolio: [GitHub Portfolio](https://marcusbynoe.github.io/reading-notes/)
