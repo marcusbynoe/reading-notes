@@ -12,7 +12,7 @@ To me a growth mindset means you are always strving to be the best version of yo
 
 - Everyone who is successful working in tech started from the bottom at one point in time. By staying in a growth mindset, I too can build myself up to where I can be successful in the career field.  
 
-## Links
+## Table Of Contents
 
 Here's a link to my github portfolio: [GitHub Portfolio](https://github.com/marcusbynoe/reading-notes)
 

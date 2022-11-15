@@ -15,3 +15,7 @@
 ## **4. What is Git?**
 
 > A free and open source software for distributed version control. It stores data in a file system composed of snapshots. When a changed version of a project is saved (commit), Git creates a snapshot of the file and stores a reference to it.^ When it comes to using Git, nearly every operation is local as most of the necessary information can be found on local files. This allows you to work offline or off a VPN if need be. Which is very useful for long flights on a plane or long trip on a train. A major factor in why Git is very useful is the integrity of the software. For data management Git is able to track every single change made to any file or directory while detecting any file corruption or loss of information if the situation arises.
+
+## Things I want to know more about
+
+> I would like to explore the dynamics/synergy between VS Code and the terminal & GitHub.
