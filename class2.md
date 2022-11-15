@@ -19,3 +19,10 @@ Code editors is a more robust version of a text editor. Most contain add-ons/ext
 Examples of a code editor:
 - VSCode
 - Sublime Text 3
+
+# Terminal Commands
+`pwd` = Print Working Directory (Tells you your currect or present working directory)
+
+`ls` = List (List the contents of a directory)
+
+`sudo`= SuperUser DO (allows a permitted user to execute a command as the superuser)
