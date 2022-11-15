@@ -16,3 +16,5 @@ To me a growth mindset means you are always strving to be the best version of yo
 Here's a link to my github portfolio: [GitHub Portfolio](https://github.com/marcusbynoe/reading-notes)
 
 [Class 1 Notes](https://marcusbynoe.github.io/reading-notes/class1)
+
+[Class 2 Notes](https://marcusbynoe.github.io/reading-notes/class2)
