@@ -6,9 +6,9 @@ To me a growth mindset means you are always strving to be the best version of yo
 
 **3 Reminders to stay in a growth mindset:**
 
-- My first reminder to myself is to remember my goals. I want to explore and breakout into a new tech career so I can improve my quality of life. 
+- Remember my goals. I want to explore and breakout into a new tech career so I can improve my quality of life. 
  
-- Second reminder is that if I want to be the best version of myself, I **need** to have a growth mindset going into this. Having a fixed mindset will only make this program harder.  
+- If I want to be the best version of myself, I **need** to have a growth mindset going into this. Having a fixed mindset will only make this program harder.  
 
 - Everyone who is successful working in tech started from the bottom at one point in time. By staying in a growth mindset, I too can build myself up to where I can be successful in the career field.  
 
