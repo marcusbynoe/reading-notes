@@ -1,5 +1,4 @@
 # Reading Journal For Code Fellows 102
-Reading notes journal for Code Fellows 102
 
 *Hello my name is Marcus Bynoe! I am an Army veteran who is currently changing careers into the tech world. I always had a love/interest in technology and always wanted a career centered around it. Some of my hobbies include gaming :video_game:, hiking :national_park:, shooting (guns & bows)  	:bow_and_arrow:, traveling :airplane: and sports :football: :basketball: :soccer:.*
 
