@@ -2,9 +2,7 @@
 
 *Hello my name is Marcus Bynoe! I am an Army veteran who is currently changing careers into the tech world. I always had a love/interest in technology and always wanted a career centered around it. Some of my hobbies include gaming🎮, hiking⛰️, shooting (guns & bows)🏹, traveling✈️ and sports 🏈🏀⚽.*
  
-## Table Of Contents
-
-Here's a link to my github portfolio: [GitHub Portfolio](https://github.com/marcusbynoe/reading-notes)
+**Here's a link to my github portfolio:** [GitHub Portfolio](https://github.com/marcusbynoe/reading-notes)
 
 ## Table of Contents
 
