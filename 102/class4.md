@@ -13,16 +13,29 @@
 * In programming, semantics alludes to the explanation of a piece of code.
 
     >Semantic elements in HTML:
+
     > article
+
     > aside
+
     > details
+
     > figcaption
+
     > figure
+
     > footer
+
     > header
+
     > main
+
     > mark
+
     > nav
+
     > section
+
     > summary
+
     > time
