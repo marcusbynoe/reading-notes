@@ -1,4 +1,4 @@
-# Reading Journal For Code Fellows 102 ![jan-kahanek-fVUl6kzIvLg-unsplash(1)(1)](https://user-images.githubusercontent.com/118087203/201806866-c505fa26-a698-4956-8295-8fd8efb9f823.jpg)
+# Reading Journal For Code Fellows 102 & 201 ![jan-kahanek-fVUl6kzIvLg-unsplash(1)(1)](https://user-images.githubusercontent.com/118087203/201806866-c505fa26-a698-4956-8295-8fd8efb9f823.jpg)
 
 *Hello my name is Marcus Bynoe! I am an Army veteran who is currently changing careers into the tech world. I always had a love/interest in technology and always wanted a career centered around it. Some of my hobbies include gaming🎮, hiking⛰️, shooting (guns & bows)🏹, traveling✈️ and sports 🏈🏀⚽.*
  
