@@ -9,7 +9,7 @@
  Embed JavaScript Code Into HTML: `<script>  </script>`
 
 Variables are containers for storing data. Example:
-```console.log(a);`
+`console.log(a);`
 `console.log(“Hello world!”);`
 
 Variables can be declared 4 ways:
@@ -19,6 +19,7 @@ Variables can be declared 4 ways:
 > (none)
 
 ## Useful Functions
+
 `console.log( )` → print information to the console
 `alert( )` → give us a popup box
 `prompt( )` → how you can get info from the user
