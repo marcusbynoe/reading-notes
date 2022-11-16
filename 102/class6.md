@@ -21,6 +21,9 @@ Variables can be declared 4 ways:
 ## Useful Functions
 
 `console.log( )` → print information to the console
+
 `alert( )` → give us a popup box
+
 `prompt( )` → how you can get info from the user
+
 `document.write( )` → how you will put content on your website
