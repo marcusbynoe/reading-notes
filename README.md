@@ -8,7 +8,7 @@ Here's a link to my github portfolio: [GitHub Portfolio](https://github.com/marc
 
 ## Table of Contents
 
-### 102 Notes
+### Code 102 Reading Notes
 
 * [Class 1 Notes](102/class1.md)
 * [Class 2 Notes](102/class2.md)
@@ -19,7 +19,7 @@ Here's a link to my github portfolio: [GitHub Portfolio](https://github.com/marc
 * [Class 7 Notes](102/class7.md)
 * [Class 8 Notes](102/class8.md)
 
-### 201 Notes
+### Code 201 Reading Notes
 
 * [Class 1 Notes](201/Class1.md)
 * [Class 2 Notes](201/Class2.md)
