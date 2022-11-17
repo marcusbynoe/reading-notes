@@ -13,3 +13,23 @@ Blocks of code designed to perform a certain task is a *JavaScript function*.
 JavaScript Function Syntax: Defined with the `function` keyword, followed by a **name**, followed by parentheses `( )`.
 
 Function Invocation: Code will execute when “something” invokes the function.
+
+## Fucntions
+
+`document.write()`
+
+`alert ()`
+
+`prompt()`
+
+`consol.log()`
+
+`confirm()`
+
+## Structure
+
+`function functionName(parameters){code to execute}`
+
+ `fuction functionName(){`
+    `code to execute;`
+`}`
