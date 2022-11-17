@@ -13,10 +13,12 @@ Variables are containers for storing data. Example:
 `console.log(“Hello world!”);`
 
 Variables can be declared 4 ways:
-> Const → constant, can’t be changed`
-> Let → changeable value
-> Var → old way, don’t do this
-> (none)
+
+`Const` → constant, can’t be changed`
+
+`Let` → changeable value
+
+`Var` → old way, don’t do this
 
 ## Useful Functions
 
