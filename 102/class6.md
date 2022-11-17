@@ -27,3 +27,7 @@ Variables can be declared 4 ways:
 `prompt( )` = how you can get info from the user
 
 `document.write( )` = how you will put content on your website
+
+## Things I want to know more about
+
+I would like to know more advanced functions that an end user could interact with to make the webpage mroe fun.
