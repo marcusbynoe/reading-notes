@@ -8,7 +8,7 @@ Control flow is the order in which a computer runs statements. Typically code is
 
 Blocks of code designed to perform a certain task is a *JavaScript function*.
 
-**Some Examples**
+## Some Examples
 
 JavaScript Function Syntax: Defined with the `function` keyword, followed by a **name**, followed by parentheses `( )`.
 
