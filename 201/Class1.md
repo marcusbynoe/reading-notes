@@ -2,14 +2,16 @@
 
 ## Getting Started
 
-1. A client sends request
+A client sends request
+
 The server responds back
+
 Resources needed to load a web page are sent back to the client.
 
 
 2. Browsers request HTML files from servers. HTML files usually content <link> elements for CSS stylesheets and <script> elements which contain external JavaScript scripts. So when a browser parses these files the order goes: HTML -> CSS -> JavaScript
 
-3. There are a variety of ways to find images to add to a website. You can simply use Google Images to find what is appropriate for your website. A good website for royalty free images is (link to unsplash.com). 
+3. There are a variety of ways to find images to add to a website. You can simply use Google Images to find what is appropriate for your website. A good website for royalty free images is [Unsplash](https://unsplash.com/).
 
 4. When it comes to a *string*, it is a sequence of text where you use single quote marks to signify that a value is a string. Whereas numbers do not have quotes around them.
 
@@ -51,7 +53,7 @@ Resources needed to load a web page are sent back to the client.
 
 ## Semantics
 
-1. <h1> tag is specifically used to define top level HTML heading. By default most browsers will style an <h1> with a large font. <span> is just an inline container. 
+1. The `<h1>` tag is specifically used to define top level HTML heading. By default most browsers will style an `<h1>` with a large font. `<span>` is just an inline container. 
 
 2. Some of the benefits of using semantics in HTML follows: Easier to find blocks of meaningful code and influences the page’s search rankings in search engines.
 
