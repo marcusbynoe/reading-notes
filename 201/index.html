@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html> 
+
+  <head>
+    <title>Lab 01</title>
+    <style>
+      body {
+        background-color: rgb(9, 92, 78);
+      }
+
+      h1 {
+        background-color: crimson;
+        text-align: left;
+      }
+
+      main {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Class 1 Lab</h1>
+    </header>
+    <main>
+      <p style="background-color:darkmagenta; color:chartreuse">What is your name?</p>
+      <p style="background-color:darkgoldenrod; color:aqua">Which do you prefer, Marvel or DC?</p>
+      <p style="background-color:darkred; color:azure">What about Star Wars or Star Trek</p>
+      <p style="background-color:bisque; color:rgb(0, 0, 0)">Playstation or Xbox or PC?</p>
+    </main>
+    <footer>
+      The footer
+    </footer>
+    <script>
+      let qOne = prompt('What is your name?');
+      alert('Welcome to my site ' + qOne + '!');
+      console.log('user\'s response was ' + qOne);
+
+      let qTwo = prompt('Which do you prefer, Marvel or DC?');
+      alert('Okay ' + qOne + ', you prefer ' + qTwo + '!');
+      console.log('user\'s response was ' + qTwo);
+
+      let qThree = prompt('Alright ' + qOne + ', so you like ' + qTwo + '... what about Star Wars or Star Trek?');
+      alert('Hmmm, I see' + '... ' + 'So you like ' + qTwo + ' and ' + qThree + '!');
+      console.log('user\'s response was ' + qThree);
+
+      let qFour = prompt('Last question, Playstation or Xbox or PC?');
+      alert('So ' + qOne + ' you like ' + qTwo + ', ' + qThree + ',' + ' and enjoy gaming on the ' + qFour +'... ' + 'you have good taste in entertainment!');
+      console.log('unser\'s response was ' + qFour);
+
+    </script>
+  </body>
+</html>
