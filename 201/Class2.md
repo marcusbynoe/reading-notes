@@ -30,11 +30,11 @@
 
 2. > Addition = `+`
 
-> Strict equality = `===`
+   > Strict equality = `===`
 
-> Multiplication = `*`
+   > Multiplication = `*`
 
-> Division = `/`
+   > Division = `/`
 
 3. Let's say you need to notify a new visitor to your webpage about a specific thing. Well the `alert()` function will make a pop-up box appear in their browser window.
 
@@ -53,3 +53,7 @@
 4. `&&` = AND; chains two or more expressions so that *ALL* of them have to evaluate to true for the whole expression to return true.
 
 - `| |` = OR; chains two or more expressions so *ONE* or *MORE* of them have to individually evaluate to true for the whole expression to return true.
+
+## Things I want to know more about
+
+How to use comparison and logical operators correctly.
