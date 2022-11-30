@@ -43,3 +43,7 @@
 5. A good real world example of conditional statements is by entering passwords on a website. In order to login into your account, you need to input the correct password to continue. If the wrong password is put in, you have to try again.  
 
 6. Loops are handy for repeating the same code over and over. Good example is a school website showing grades for students who check the page multiple times.
+
+## Things I want to know more about
+
+- I would like to dive deeper and get to know more about Arrays.
