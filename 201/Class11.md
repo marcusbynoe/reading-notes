@@ -18,9 +18,9 @@
 
 2. `Grid Container`: The element on which `display:` grid is applied. It’s the direct parent of all the grid items.
 
- `Grid Item`: The children (i.e. direct descendants) of the grid container.
+  `Grid Item`: The children (i.e. direct descendants) of the grid container.
 
- `Grid Line`: The dividing lines that make up the structure of the grid. They can be either vertical (“column grid lines”) or horizontal (“row grid lines”) and reside on either side of a row or column.
+  `Grid Line`: The dividing lines that make up the structure of the grid. They can be either vertical (“column grid lines”) or horizontal (“row grid lines”) and reside on either side of a row or column.
 
 ## Responsive Images
 
