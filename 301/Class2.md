@@ -4,9 +4,11 @@
 
 1. Based off the diagram, it looks like "render" happens first
 
-2. The `static getDerivedStateFromProps` method is first to be invoked.
+2. Mounting of the constructor
 
 3. Constructor, Render, componentDidMount, React Updates & componentWillUnmount.
+
+4. This method is invoked immediately after a component is mounted. If you need to load anything using a network request or initialize the DOM, it should go here.
 
 ## React State Vs Props
 
