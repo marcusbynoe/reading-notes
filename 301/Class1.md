@@ -31,3 +31,8 @@
 2. It is used for passing data from one component to another.
 
 3. First step is to define an attribute and its value(data). Second step is to pass it to child component(s) by using props. Lastly, you render the props data.
+
+
+## Things I want to know more about
+
+- None at the moment. 
