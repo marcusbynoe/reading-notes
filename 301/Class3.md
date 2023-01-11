@@ -1,6 +1,8 @@
 # Readings: Passing Functions as Props
 
-## React Docs - lists and keys
+## React Docs - lists and keys [^1]
+
+[^1] Reference: <https://reactjs.org/docs/lists-and-keys.html>
 
 1. **What does .map() return?:** A new array with doubled or more values.
 
@@ -10,7 +12,9 @@
 
 4. **What is the purpose of a key?:** Keys help React identify which items have changed, are added, or are removed.
 
-## The Spread Operator
+## The Spread Operator [^2]
+
+[^2] Reference: <https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab>
 
 1. **What is the spread operator?:** It takes in an iterable (e.g an array) and expands it into individual elements.
 
@@ -55,3 +59,9 @@ objectFour.laugh() // 😂😂😂😂😂
 3. **How can you pass a method from a parent component into a child component?:** By passing the method as a prop into the child component.
 
 4. **How does the child component invoke a method that was passed to it from a parent component?:**
+
+
+## Things I want to know more about
+
+- N/A
+
