@@ -61,3 +61,4 @@
 * [Class 5 Notes](401/Class5.md)
 * [Class 6 Notes](401/Class6.md)
 * [Class 7 Notes](401/Class7.md)
+* [Class 8 Notes](401/Class8.md)
