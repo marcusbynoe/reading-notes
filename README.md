@@ -51,6 +51,7 @@
 * [Class 12 Notes](301/Class12.md)
 * [Class 13 Notes](301/Class13.md)
 * [Class 14 Notes](301/Class14.md)
+* [Class 15 Notes](301/Class15.md)
 
 ### Code 401 - Advanced Software Development
 
