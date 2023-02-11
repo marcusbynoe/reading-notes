@@ -1,7 +1,7 @@
 # Reading Journal For Code Fellows 102, 201, 301 & 401![jan-kahanek-fVUl6kzIvLg-unsplash(1)(1)](https://user-images.githubusercontent.com/118087203/201806866-c505fa26-a698-4956-8295-8fd8efb9f823.jpg)
 
 *Hello my name is Marcus Bynoe! I am an Army veteran who is currently changing careers into the tech world. I always had a love/interest in technology and always wanted a career centered around it. Some of my hobbies include gaming🎮, hiking⛰️, shooting (guns & bows)🏹, traveling✈️ and sports 🏈🏀⚽.*
- 
+
 **Here's a link to my github portfolio:** [GitHub Portfolio](https://github.com/marcusbynoe/reading-notes)
 
 ## Table of Contents
@@ -56,6 +56,7 @@
 ### Code 401 - Advanced Software Development
 
 * [Prep Notes](401/Prep1.md)
+* [Prep Notes 2](401/Prep2.md)
 * [Class 1 Notes](401/Class1.md)
 * [Class 2 Notes](401/Class2.md)
 * [Class 3 Notes](401/Class3.md)
