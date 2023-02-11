@@ -57,6 +57,7 @@
 
 * [Prep Notes](401/Prep1.md)
 * [Prep Notes 2](401/Prep2.md)
+* [Prep Notes 3](401/Prep3.md)
 * [Class 1 Notes](401/Class1.md)
 * [Class 2 Notes](401/Class2.md)
 * [Class 3 Notes](401/Class3.md)
